@@ -1,0 +1,18 @@
+Revision history for Covetel-LDAP
+
+0.01    Tue Oct 15 18:00:16 VET 2011
+    - First version.
+	- Methods to connect via SSL to ActiveDirectory and OpenLDAP ready and test
+	- Methdos to create a valid user with password in ActiveDirectory ready
+ 	- Methdos to perform a search operation to ActiveDirectory ready
+
+0.02 	Tue Nov 15 18:31:41 VET 2011
+	- Implementing AppConfig, a module for reading configuration files and
+	  parsing command line arguments
+
+0.03    Fri Feb 24 01:17:45 VET 2012
+    - Remplacing AppConfig by Config::Any::INI.
+    - Minior changes.
+
+0.04    Fri Apr  6 13:52:03 VET 2012
+    - Methods to perform paged search in AD and OpenLDAP

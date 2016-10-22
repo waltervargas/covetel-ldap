@@ -1,0 +1,14 @@
+Changes
+ignore.txt
+lib/Covetel/LDAP.pm
+lib/Covetel/LDAP/AD.pm
+lib/Covetel/LDAP/OpenLDAP.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/00-load.t
+t/boilerplate.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
